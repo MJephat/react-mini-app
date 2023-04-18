@@ -1,4 +1,4 @@
-import "./Nav.js";
+import "./App.css";
 import DoctorInformation from "./components/Doctors";
 import './App.css';
 
