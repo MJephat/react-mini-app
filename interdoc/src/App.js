@@ -1,6 +1,9 @@
+import "./App.css";
+import DoctorInformation from "./components/Doctors";
 import './App.css';
 
 function App() {
+  return <DoctorInformation />;
   return (
     <div className="App">
         <header className="App-header">
