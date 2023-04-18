@@ -4,7 +4,7 @@ import DoctorList from "./List";
 function DoctorInformation() {
   return (
     <div className="doctorsInfo">
-      <DoctorList listText="Jephat Maina" />
+      <DoctorList listText="Emily Maina" />
       <p>Jephat is an othodontics specialist</p>
       <p>jephat34@gmail.com</p>
       <p>079848290</p>
@@ -20,6 +20,7 @@ function DoctorInformation() {
       <p>Medrin is the head doctor at our establishment</p>
       <p>medrine@gmail.com</p>
       <p>0783576428</p>
+
     </div>
   );
 }
